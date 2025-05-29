@@ -23,8 +23,8 @@ A simple and modular RESTful API built with Node.js, Express, and MongoDB to man
 
 ## API Endpoints
 
-- Method	Endpoint	Description
-- GET	/api/tasks	Get all tasks
-- POST	/api/tasks	Create a task
-- PUT	/api/tasks/:id	Update a task
+Method  	Endpoint    	Description
+- GET	    /api/tasks	    Get all tasks
+- POST  	/api/tasks	    Create a task
+- PUT	    /api/tasks/:id	Update a task
 - DELETE	/api/tasks/:id	Delete a task
