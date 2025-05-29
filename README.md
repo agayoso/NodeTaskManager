@@ -28,3 +28,5 @@ Method  	Endpoint    	Description
 - POST  	/api/tasks	    Create a task
 - PUT	    /api/tasks/:id	Update a task
 - DELETE	/api/tasks/:id	Delete a task
+
+![image](https://github.com/user-attachments/assets/ee136f69-6efe-4180-8d6a-46fcb9059141)
